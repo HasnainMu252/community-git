@@ -1,0 +1,1 @@
+this is cmd commands , cd for go into folder , ls for location same file , touch file , nano and vim is editor for txt file ,   
